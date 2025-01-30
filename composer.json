@@ -1,0 +1,18 @@
+{
+    "name": "dreamydevil/php-bitwarden-sdk",
+    "description": "Universal PHP SDK for Bitwarden API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dreamydevil\\PhpBitwardenSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Torgan Vladimir",
+            "email": "torganbg@gmail.com"
+        }
+    ],
+    "require": {}
+}
